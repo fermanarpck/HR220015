@@ -1,0 +1,49 @@
+Proje Raporu: "Belediye Çalışan Takibi ve Yönetim Sistemi"
+
+1-) Proje Süreçlerinin Açıklaması:
+
+Proje Tanımı: Tuzla Belediyesi için "Belediye Çalışan Takibi ve Yönetim Sistemi" geliştirilmesi gerekmektedir. Bu sistem, belediyede çalışan personelin bilgilerinin takibi, görev atamalarının yapılması ve sözleşmelerin yönetilmesi gibi işlevleri içermelidir.
+
+Adım Adım Süreçler:
+
+İhtiyaç Analizi ve Planlama: İlk olarak, Tuzla Belediyesi yetkilileriyle bir araya gelerek proje ihtiyaçları ve beklentileri üzerine detaylı bir toplantı gerçekleştirdik. Çalışan takibi, görev yönetimi, sözleşme yönetimi gibi temel gereksinimler belirlendi ve projenin kapsamı netleştirildi.
+
+Tasarım: İhtiyaç analizi sonucunda elde edilen bilgiler doğrultusunda sistem mimarisi ve kullanıcı arayüzü tasarlandı. UML sınıf ve kullanım diyagramları çizilerek, temel bileşenler (örneğin, Çalışan, Görev, Sözleşmeli Çalışan gibi) belirlendi. Her bir bileşenin özellikleri ve metodları detaylı olarak incelendi ve belirlendi.
+
+Geliştirme: Tasarlanan sistem, yazılım geliştirme ekibi tarafından hayata geçirildi. Front-end ve back-end geliştiricileri bir araya gelerek, kullanıcı dostu bir arayüz oluşturuldu ve veritabanı yapılandırıldı. Her bir bileşen için gerekli olan işlevselliğin kodlanması gerçekleştirildi.
+
+Test: Geliştirilen yazılım üzerinde birim testleri, entegrasyon testleri ve sistem testleri yapıldı. Yazılımın doğruluğu, güvenilirliği ve performansı test edildi. Kullanıcı deneyimi açısından testler yapılarak, kullanıcı geri bildirimleri dikkate alındı ve gerekli düzeltmeler yapıldı.
+
+Dağıtım ve Destek: Yazılım, canlı sunuculara dağıtılarak kullanıcılar için erişilebilir hale getirildi. Proje tesliminden sonra, 3 aylık bir destek süreci başlatıldı. Kullanıcıların karşılaştığı sorunlar için teknik destek sağlandı ve acil durumlarda hızlı çözümler sunuldu.
+
+2-) Kullanılan Yazılım Süreç Modeli:
+
+Proje kapsamında çevik yazılım geliştirme modeli tercih edildi. Çevik model, değişen gereksinimlere hızlı yanıt verilmesini sağlayarak esneklik sağlar. Sürekli müşteri ile işbirliği içinde olunarak, projenin her aşamasında gereksinimlerin ve beklentilerin güncellenmesi sağlandı.
+
+3-) Nesneye Yönelik Programlama Tasarımı:
+
+Proje, Nesneye Yönelik Programlama ilkelerine göre tasarlanmıştır. UML sınıf ve kullanım diyagramları kullanılarak, proje bileşenleri (örneğin, Çalışan, Görev, Sözleşmeli Çalışan) belirlenmiştir. Sınıf diyagramları, her bir bileşenin özelliklerini, metodlarını ve aralarındaki ilişkileri detaylı bir şekilde göstermektedir. Ayrıca, kullanım senaryolarını gösteren UML kullanım diyagramları da hazırlanmıştır.Proje Raporu: "Belediye Çalışan Takibi ve Yönetim Sistemi"
+
+1-) Proje Süreçlerinin Açıklaması:
+
+Proje Tanımı: Tuzla Belediyesi için "Belediye Çalışan Takibi ve Yönetim Sistemi" geliştirilmesi gerekmektedir. Bu sistem, belediyede çalışan personelin bilgilerinin takibi, görev atamalarının yapılması ve sözleşmelerin yönetilmesi gibi işlevleri içermelidir.
+
+Adım Adım Süreçler:
+
+İhtiyaç Analizi ve Planlama: İlk olarak, Tuzla Belediyesi yetkilileriyle bir araya gelerek proje ihtiyaçları ve beklentileri üzerine detaylı bir toplantı gerçekleştirdik. Çalışan takibi, görev yönetimi, sözleşme yönetimi gibi temel gereksinimler belirlendi ve projenin kapsamı netleştirildi.
+
+Tasarım: İhtiyaç analizi sonucunda elde edilen bilgiler doğrultusunda sistem mimarisi ve kullanıcı arayüzü tasarlandı. UML sınıf ve kullanım diyagramları çizilerek, temel bileşenler (örneğin, Çalışan, Görev, Sözleşmeli Çalışan gibi) belirlendi. Her bir bileşenin özellikleri ve metodları detaylı olarak incelendi ve belirlendi.
+
+Geliştirme: Tasarlanan sistem, yazılım geliştirme ekibi tarafından hayata geçirildi. Front-end ve back-end geliştiricileri bir araya gelerek, kullanıcı dostu bir arayüz oluşturuldu ve veritabanı yapılandırıldı. Her bir bileşen için gerekli olan işlevselliğin kodlanması gerçekleştirildi.
+
+Test: Geliştirilen yazılım üzerinde birim testleri, entegrasyon testleri ve sistem testleri yapıldı. Yazılımın doğruluğu, güvenilirliği ve performansı test edildi. Kullanıcı deneyimi açısından testler yapılarak, kullanıcı geri bildirimleri dikkate alındı ve gerekli düzeltmeler yapıldı.
+
+Dağıtım ve Destek: Yazılım, canlı sunuculara dağıtılarak kullanıcılar için erişilebilir hale getirildi. Proje tesliminden sonra, 3 aylık bir destek süreci başlatıldı. Kullanıcıların karşılaştığı sorunlar için teknik destek sağlandı ve acil durumlarda hızlı çözümler sunuldu.
+
+2-) Kullanılan Yazılım Süreç Modeli:
+
+Proje kapsamında çevik yazılım geliştirme modeli tercih edildi. Çevik model, değişen gereksinimlere hızlı yanıt verilmesini sağlayarak esneklik sağlar. Sürekli müşteri ile işbirliği içinde olunarak, projenin her aşamasında gereksinimlerin ve beklentilerin güncellenmesi sağlandı.
+
+3-) Nesneye Yönelik Programlama Tasarımı:
+
+Proje, Nesneye Yönelik Programlama ilkelerine göre tasarlanmıştır. UML sınıf ve kullanım diyagramları kullanılarak, proje bileşenleri (örneğin, Çalışan, Görev, Sözleşmeli Çalışan) belirlenmiştir. Sınıf diyagramları, her bir bileşenin özelliklerini, metodlarını ve aralarındaki ilişkileri detaylı bir şekilde göstermektedir. Ayrıca, kullanım senaryolarını gösteren UML kullanım diyagramları da hazırlanmıştır.
